@@ -1,0 +1,2 @@
+to build image: langgraph build -t grant_genie 
+to run the all image: docker compose up
