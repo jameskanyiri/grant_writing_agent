@@ -13,11 +13,7 @@ Grant Genie is a powerful AI-powered agent built with LangGraph to assist users 
 - [Docker Deployment](#docker-deployment)
   - [Option 1: Using Docker Compose (Recommended)](#option-1-using-docker-compose-recommended)
   - [Option 2: Manual Docker Setup](#option-2-manual-docker-setup)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [Troubleshooting](#troubleshooting)
-- [License](#license)
+
 
 ## Features
 - **Funding Discovery**: Search for relevant grants based on user criteria using AI-driven analysis.
